@@ -1,6 +1,6 @@
-package main;
+package com.lab.three.main;
 
-import service.BalanceBracketService;
+import com.lab.three.service.BalanceBracketService;
 
 /**
  * Solution for Question 1

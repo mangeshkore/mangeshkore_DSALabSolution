@@ -1,4 +1,4 @@
-package model;
+package com.lab.three.model;
 
 public class Node {
     int data;

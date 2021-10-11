@@ -1,7 +1,7 @@
-package main;
+package com.lab.three.main;
 
-import model.Node;
-import service.PathFinderService;
+import com.lab.three.model.Node;
+import com.lab.three.service.PathFinderService;
 
 import java.util.ArrayList;
 /**

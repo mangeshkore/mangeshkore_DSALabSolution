@@ -1,6 +1,6 @@
-package service;
+package com.lab.three.service;
 
-import model.Node;
+import com.lab.three.model.Node;
 import java.util.ArrayList;
 
 

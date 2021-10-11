@@ -1,4 +1,4 @@
-package service;
+package com.lab.three.service;
 
 import java.util.Stack;
 
